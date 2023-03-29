@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import SignUpPage from "./pages/SignUpPage.vue";
+import SignUpPage from "./pages/PlayerDetails/SignUp.vue";
 
 export default {
   name: "App",
